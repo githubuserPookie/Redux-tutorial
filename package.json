@@ -19,5 +19,6 @@
   "homepage": "https://github.com/githubuserPookie/Redux-tutorial#readme",
   "dependencies": {
     "create-react-app": "^5.0.1"
-  }
+  },
+  "devDependencies": {}
 }
